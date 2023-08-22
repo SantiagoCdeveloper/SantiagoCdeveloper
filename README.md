@@ -14,7 +14,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA=="><img width="32px" alt="instagram" title="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
 </p>
-    <h3 aling="center" color= "#840358" >I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
+    <h3 aling="center" style="color: #840358;" >I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
 <p align="center">
     <a href="https://www.instagram.com/santy.uc/?igshid=MzRlODBiNWFlZA%3D%3D"><i class="fa-brands fa-square-instagram fa-bounce" style="color: #931f42;"></i></a>
