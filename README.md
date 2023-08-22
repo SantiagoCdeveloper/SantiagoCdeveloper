@@ -4,10 +4,19 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://www.instagram.com/santy.uc/?igshid=MzRlODBiNWFlZA%3D%3D"><img width="32p![instagram](https://github.com/SantiagoCdeveloper/SantiagoCdeveloper/assets/137139926/c28d0f33-1550-48cf-9c09-4c9c6696f582)
-x" alt="Instagram" title="Instagram" src="https://imgur.com/InJWBsE"></a>
+    <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+    <a href="https://www.linkedin.com/in/santiagodeveloper/"><img width="32px" alt="" title="" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  </p>
+  
 <div id="header" align="center">
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
