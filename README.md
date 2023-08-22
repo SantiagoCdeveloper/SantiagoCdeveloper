@@ -5,15 +5,6 @@
         <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+Developer;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" />
     </a>
 </p>
-<p align="center">
-    <a href="https://www.youtube.com/channel/UCH186_rSPWTI6lG7H33pXvQ"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/480px-YouTube_social_white_square_%282017%29.svg.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/santiagodeveloper/"><img width="32px" alt="linkedin" title="linkedin" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.fiverr.com/santiagodev1?up_rollout=true"><img width="32px" alt="fiverr" title="fiverr" src="https://w7.pngwing.com/pngs/876/337/png-transparent-fiverr-freelancer-logo-business-online-marketplace-fiverr-text-service-grass-thumbnail.png"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA=="><img width="32px" alt="instagram" title="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
-</p>
     <h3 aling="center" style="color: #840358;" >I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
 <p align="center">
