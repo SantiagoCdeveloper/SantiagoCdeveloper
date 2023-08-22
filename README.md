@@ -4,6 +4,9 @@
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
 - 😀 I like Programming.
+
 - 📚 I'm Studying for going be a Software Developer.
+- 
 - 😎 Talk whit me on my Instagram : [santy.uc](https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA==)
+- 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm B1.
