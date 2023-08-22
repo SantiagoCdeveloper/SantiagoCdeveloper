@@ -87,3 +87,7 @@
 <h1>MY STREAK</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santy%20Developer&theme=radical)](https://git.io/streak-stats)
+</br>
+<h1>MY STATS</h1>
+
+![Santy Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoCdeveloper&show_icons=true&theme=radical)
