@@ -4,18 +4,14 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+    <a href="https://www.youtube.com/channel/UCH186_rSPWTI6lG7H33pXvQ"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/480px-YouTube_social_white_square_%282017%29.svg.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/santiagodeveloper/"><img width="32px" alt="" title="" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960"/></a>
+    <a href="https://www.linkedin.com/in/santiagodeveloper/"><img width="32px" alt="linkedin" title="linkedin" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+    <a href="https://www.fiverr.com/santiagodev1?up_rollout=true"><img width="32px" alt="fiverr" title="fiverr" src="https://w7.pngwing.com/pngs/876/337/png-transparent-fiverr-freelancer-logo-business-online-marketplace-fiverr-text-service-grass-thumbnail.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-  </p>
+    <a href="https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA=="><img width="32px" alt="instagram" title="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
+</p>
   
 <div id="header" align="center">
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
