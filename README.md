@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" /></a>
 <div id="header" align="center">
     <img src="https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" width="">
     <h1 aling="center">Hi, I'm Santy Developer</h1>
@@ -14,10 +15,21 @@
     <img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/microsoft/vscode?style=default&logo=visualstudiocode&logoColor=%23007ACC&label=VSCODE">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Pygame?style=default&logo=pythonanywhere&logoColor=%23005CA0&label=Pygame&labelColor=%23F1BF7A">
 </div>
-- 😀 I like Programming.
 
-- 📚 I'm Studying for going be a Software Developer.
-  
-- 😎 Talk whit me on my Instagram : [santy.uc](https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA==)
-  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm B1.
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
