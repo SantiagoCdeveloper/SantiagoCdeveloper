@@ -1,6 +1,10 @@
 
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" /></a>
+    <p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?            font=&weight=600&size=30&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" />
+    </a>
+</p>
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
 <div id="badges" align="center">
