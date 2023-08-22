@@ -83,8 +83,5 @@
 
 ![Santy Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoCdeveloper&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/SantiagoCdeveloper/github-stats-gen/master/generated/overview.svg#gh-dark-mode-only"/>
-
-<img src="https://raw.githubusercontent.com/SantiagoCdeveloper/github-stats-gen/master/generated/languages.svg#gh-dark-mode-only"/>
 </div>
 
