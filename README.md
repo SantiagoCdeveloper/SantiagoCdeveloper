@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://www.instagram.com/santy.uc/?igshid=MzRlODBiNWFlZA%3D%3D"><img width="32px" alt="Instagram" title="Instagram" src="[https://imgur.com/a/0i1Xgf8](https://imgur.com/InJWBsE)"></a>
+    <a href="https://www.instagram.com/santy.uc/?igshid=MzRlODBiNWFlZA%3D%3D"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/InJWBsE"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <div id="header" align="center">
