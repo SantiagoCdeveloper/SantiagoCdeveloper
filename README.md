@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" /></a>
 <div id="header" align="center">
-    <img src="https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" width="">
     <h1 aling="center">Hi, I'm Santy Developer</h1>
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
