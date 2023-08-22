@@ -19,8 +19,7 @@
 <p align="center">
     <a href="https://www.instagram.com/santy.uc/?igshid=MzRlODBiNWFlZA%3D%3D"><i class="fa-brands fa-square-instagram fa-bounce" style="color: #931f42;"></i></a>
 </p>
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+<div align="center">
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
