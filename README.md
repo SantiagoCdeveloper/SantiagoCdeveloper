@@ -16,6 +16,14 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA=="><img width="32px" alt="instagram" title="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
 </p>
+<p align="center"> 
+  <b>Profile Visitor Count...</b><br><br>
+  <img src="https://profile-counter.glitch.me/knotsid/count.svg" /><br>
+  <img src="hello.gif" height="400" autoplay>
+  <!-- ![hello](hello.gif) -->
+  
+</p>
+
 <details> 
     <summary><h2>🛠️ My Favorite Tools</h2></summary>
     <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -72,12 +80,3 @@
 <h1>MY STATS</h1>
 
 ![Santy Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoCdeveloper&show_icons=true&theme=radical)
-
-
-<p align="center"> 
-  <b>Profile Visitor Count...</b><br><br>
-  <img src="https://profile-counter.glitch.me/knotsid/count.svg" /><br>
-  <img src="hello.gif" height="400" autoplay>
-  <!-- ![hello](hello.gif) -->
-  
-</p>
