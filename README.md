@@ -1,4 +1,6 @@
-<p align="center">
+
+<div id="header" align="center">
+    <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+Developer;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" />
     </a>
@@ -12,8 +14,6 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://instagram.com/santy.uc?igshid=MzRlODBiNWFlZA=="><img width="32px" alt="instagram" title="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
 </p>
-  
-<div id="header" align="center">
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
 <p align="center">
