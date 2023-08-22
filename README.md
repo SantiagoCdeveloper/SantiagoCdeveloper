@@ -1,10 +1,14 @@
-
-<div id="header" align="center">
-    <p align="center">
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
+<p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?            font=&weight=600&size=30&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&pause=1000&color=CF2EF7&width=435&lines=WELCOME+TO+MY+GITHUB;I'm+Santy+Developer;I'm+Web+Designer;I'm+Software+Developer" alt="Typing SVG" />
     </a>
 </p>
+
+<div id="header" align="center">
     <h3 aling="center">I'm a WEB Designer and Software Developer from Argentina with Italian citizenship. I like spend my time programming on my computer and learn about technology. Here you can see all my projects at the date.</h3>
 </div>
 <div id="badges" align="center">
